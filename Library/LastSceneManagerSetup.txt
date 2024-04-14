@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/PropulsionPhysics/Demo3D.unity
-  isLoaded: 1
-  isActive: 1
